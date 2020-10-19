@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd94f3cc-19e4-4a4a-9e95-ccefa00f98e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="cd94f3cc-19e4-4a4a-9e95-ccefa00f98e7" name="Default Changelist" comment="counts dir size with a few optional args">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get-size.js" beforeDir="false" afterPath="$PROJECT_DIR$/get-size.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +27,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.68" />
@@ -43,12 +46,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603110743055</updated>
-      <workItem from="1603110744160" duration="6821000" />
+      <workItem from="1603110744160" duration="7071000" />
+      <workItem from="1603141312716" duration="1807000" />
     </task>
+    <task id="LOCAL-00001" summary="adds .gitignore">
+      <created>1603117639523</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603117639523</updated>
+    </task>
+    <task id="LOCAL-00002" summary="counts dir size with a few optional args">
+      <created>1603117674159</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603117674159</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adds .gitignore" />
+    <MESSAGE value="counts dir size with a few optional args" />
+    <option name="LAST_COMMIT_MESSAGE" value="counts dir size with a few optional args" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603111747141">
@@ -63,6 +87,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1603117572312" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1603117733905">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1603117733905" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1603117568933">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

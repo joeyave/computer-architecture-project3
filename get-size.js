@@ -9,6 +9,8 @@ get-size --folder=/home/myFolder
 
 const optionsString = `Options:
 -i, --ignore REGEX\t - ignore files that correspond to the given regex
+--ignore-hidden\t\t - ignore hidden files
+--ignore-readonly\t - ignore readonly files
 -h, --help\t\t - get help
 `;
 
